@@ -1,0 +1,59 @@
+# My Laravel Project
+
+## Requirements
+
+- PHP >= 8.x
+- Composer
+- MySQL or SQLite
+- Node.js & npm (if you use Laravel Mix)
+
+## Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/your-laravel-project.git
+   cd your-laravel-project
+Install dependencies
+
+bash
+Copy
+Edit
+composer install
+npm install # if you use npm
+Copy .env
+
+bash
+Copy
+Edit
+cp .env.example .env
+Generate app key
+
+bash
+Copy
+Edit
+php artisan key:generate
+Set up your database
+
+Create a database in MySQL (e.g., my_db_name)
+
+Update .env with your DB credentials.
+
+Run migrations
+
+bash
+Copy
+Edit
+php artisan migrate
+(Optional) Seed the database
+
+bash
+Copy
+Edit
+php artisan db:seed
+Serve the application
+
+bash
+Copy
+Edit
+php artisan serve
+Visit http://localhost:8000
