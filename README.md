@@ -17,9 +17,10 @@ A simple Laravel CRUD app for creating, reading, updating, and deleting blog pos
 1. Clone the repo:
 
    git clone https://github.com/MahmoudYoussef959/Laravel-crud-app.git
+   
    cd Laravel-crud-app
 
-2. Install dependencies:
+3. Install dependencies:
    
 composer install
 npm install
