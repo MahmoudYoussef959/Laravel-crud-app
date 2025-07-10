@@ -8,8 +8,8 @@ A simple Laravel CRUD app for creating, reading, updating, and deleting blog pos
 
 - PHP >= 8.x
 - Composer
-- MySQL or SQLite
-- Node.js & npm (optional, if you use Laravel Mix)
+- MySQL
+- Node.js & npm
 
 ---
 ## ⚙️ Installation
