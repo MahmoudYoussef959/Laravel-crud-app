@@ -23,6 +23,7 @@ A simple Laravel CRUD app for creating, reading, updating, and deleting blog pos
 3. Install dependencies:
    
 composer install
+
 npm install
 
 3. Configure Environment:
